@@ -10,7 +10,7 @@ We are currently organising scholarships to send people from under-represented g
 
 * Please donate through our [Go Fund Me](https://gofund.me/fef714b4) campaign.
 
-* We will be announcing shortly how to apply for an ACCU 2022 scholarship.
+* Please [apply for the diversity scholarships here](https://richardchandler590561.typeform.com/to/ZnQDqSy5) which closes at the end of Monday 22nd March 2022 to allow for selection and logistics.
 
 <!--
 * You can [apply for a CppEurope 2021 scholarship](https://claremacrae547546.typeform.com/to/QuJDjcoG)
@@ -19,3 +19,5 @@ We are currently organising scholarships to send people from under-represented g
     * Our [tips for Scholarship Applicants](/conferences/scholarships/#tips-for-scholarship-applicants) will help you apply
     * Applications close at the end of Thursday 28 January, that is 2021-01-28T23:59:00Z
 -->
+
+<!-- NOTE Please comment out unwanted text when we are not fundraising, so it is easy to add the next fundraiser - thanks. -->
